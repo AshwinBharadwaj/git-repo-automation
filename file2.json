@@ -1,0 +1,19 @@
+{
+    "request": {
+        "returnRequest": false,
+        "requestId": "e8c0f028-cbfa-4a7c-bdc2-9152c7ee15bf"
+    },
+    "response": {
+        "status": "error",
+        "statusDetail": {
+            "messages": [
+                {
+                    "message": "Permission Denied",
+                    "messageCode": "PD001",
+                    "messageType": "error"
+                }
+            ]
+        },
+        "totalRecords": 0
+    }
+}
